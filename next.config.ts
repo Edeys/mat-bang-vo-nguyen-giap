@@ -1,7 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  output: "export",
+  basePath: "/mat-bang-vo-nguyen-giap",
+  images: { unoptimized: true },
 };
 
 export default nextConfig;
