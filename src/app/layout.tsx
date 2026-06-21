@@ -4,15 +4,15 @@ import "./globals.css"
 export const metadata: Metadata = {
   title: "Mặt Bằng 2 Mặt Tiền Đầu Đường Võ Nguyên Giáp - 3.200m², 2 Mặt Tiền + View Hồ",
   description:
-    "Mặt bằng 39x72m tại đầu đường Võ Nguyên Giáp, TP Huế. 39m mặt tiền Võ Nguyên Giáp + 72m mặt tiền đường Cao đẳng Cộng đồng + 1 mặt giáp hồ. Đã tách 3 sổ, cách Hùng Vương 500m.",
+    "Mặt bằng 39x72m tại đầu đường Võ Nguyên Giáp, TP Gia Nghĩa, Đắk Nông. 39m mặt tiền Võ Nguyên Giáp + 72m mặt tiền đường Cao đẳng Cộng đồng + 1 mặt giáp hồ. Đã tách 3 sổ, cách Hùng Vương 500m.",
   keywords: [
-    "bán mặt bằng Huế",
+    "bán mặt bằng Đắk Nông",
     "mặt bằng Võ Nguyên Giáp",
-    "đất 2 mặt tiền Huế",
-    "mặt bằng kho bãi Huế",
+    "đất 2 mặt tiền Đắk Nông",
+    "mặt bằng kho bãi Gia Nghĩa",
     "bán đất Võ Nguyên Giáp",
-    "mặt bằng kinh doanh Huế",
-    "đất view hồ Huế",
+    "mặt bằng kinh doanh Gia Nghĩa",
+    "đất view hồ Đắk Nông",
   ],
   openGraph: {
     title: "Mặt Bằng 2 Mặt Tiền Đầu Đường Võ Nguyên Giáp - 3.200m², 2 Mặt Tiền + View Hồ",

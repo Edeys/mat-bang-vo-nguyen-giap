@@ -105,7 +105,7 @@ export default function Location() {
               title="Bản đồ vị trí lô đất"
             />
             <div className="p-3 bg-zinc-800 text-center flex-1 flex flex-col justify-center">
-              <p className="text-zinc-300 text-sm">📍 Đầu đường Võ Nguyên Giáp, TP Huế</p>
+              <p className="text-zinc-300 text-sm">📍 Đầu đường Võ Nguyên Giáp, TP Gia Nghĩa, Đắk Nông</p>
               <p className="text-zinc-500 text-xs mt-1">Cách Hùng Vương 500m — 2 mặt tiền — View hồ</p>
             </div>
           </div>
